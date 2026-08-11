@@ -10,7 +10,5 @@ cd spam-brutal
 python spam_brutal.py
 
 # update SC
-
-cd spam-brutal
-
+```cd spam-brutal```
 git pull
