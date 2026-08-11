@@ -14,7 +14,7 @@
 
 
 
-# update SC
-```-cd spam-brutal```
+# update sc
 
+```-cd spam-brutal```
 ```-git pull```
