@@ -1,4 +1,4 @@
-# spam-brutal
+# spam-brutal ⚠️
 ```by ellnicholl```
 
 
@@ -6,9 +6,9 @@
 ```tt yuga3_```
 ```ig buoyka_```
 
-# rules kamu baca 📖
+# rules harus di baca 📖
 # penting
-```jika ingin bergabung ke grup kami anda dapat menghubungi nomor telepon WhatsApp yang berada di bawah tersebut ini free tanpa berbayar banyak SC" free lainnya ok thanks dah mampir noktel 6283168782994```
+```jika ingin bergabung ke grup kami anda dapat menghubungi nomor telepon WhatsApp yang berada di bawah tersebut ini free tanpa berbayar banyak SC" free lainnya ok thanks dah mampir noktel 6283168782994 satu lagi ingat jika share SC ini usahakan kasih credit ellnicholl ketahuan remake/rename terima frekuensi dari kami```
 
 # command run to termux
 
@@ -27,3 +27,7 @@
 
 # note
 ```gausah copy paste yah mek udah gua public masih mau lu rename ketahuan gua denda 1jt copyright © ellnicholl```
+
+
+
+# copyright by © ellnicholll
